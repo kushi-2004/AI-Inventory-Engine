@@ -1,0 +1,4 @@
+date,sku_id,quantity_sold,unit_price,lead_time_days,current_stock,avg_daily_demand,std_demand,supplier
+2026-09-01,SKU-1001,15,25.0,7,12,15,4,Alpha Supplies
+2026-09-02,SKU-1002,8,10.0,5,140,8,2,Global Tech
+2026-09-03,SKU-1003,25,50.0,10,5,25,6,Apex Wholesalers
